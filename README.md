@@ -64,6 +64,10 @@
 
 ##
 <div align="center">
+  <img src="(https://komarev.com/ghpvc/?username=your-github-username&color=green" />
+</div>
+
+<div align="center">
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="50" height="50" />
 
 </div>
