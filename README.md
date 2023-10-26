@@ -13,7 +13,7 @@
 
 ###
 <div align = "center">
-<a href="https://bforbhagya.github.io/BhagyaPortfolioTest/" target="blank"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe Showing Americas" width="50" height="50" /></a>
+<a href="https://bforbhagya.github.io/BhagyaPortfolioTest/" target="blank"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe Showing Americas" width="25" height="25" /></a>
 </div>
 
 ###
