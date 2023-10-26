@@ -64,7 +64,7 @@
 
 ##
 <div align="center">
-  <img src="(https://komarev.com/ghpvc/?username=your-github-username&color=green" />
+  <img src="(https://komarev.com/ghpvc/?username=bforBhagya&color=green" />
 </div>
 
 <div align="center">
