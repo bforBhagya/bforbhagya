@@ -68,7 +68,8 @@
 <br clear="both">
 
 <div align="center">
-   [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?bforbhagya&theme=github_dark=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+   
+   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?bforbhagya&theme=github_dark=anuraghazra" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bforbhagya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2&custom_title=Languages" height="150" alt="languages graph"  />
 </div>
 
