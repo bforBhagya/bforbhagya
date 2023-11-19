@@ -7,8 +7,8 @@
 
 <div align = "center">
 <a href="https://linkedin.com/in/bforbahagya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bforbahagya" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bforbhagya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bforbhagya" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bforbhagya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bforbhagya" height="30" width="40" /></a>
+<a href="https://medium.com/@bforbhagya" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" alt="bforbhagya" height="30" width="40" /></a>
 </div>
 
 ###
