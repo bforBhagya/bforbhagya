@@ -26,18 +26,19 @@
 
    <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" alt="JavaScript Badge">
+   <img src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=flat-square" alt="C# Badge">
+   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square" alt="TypeScript Badge">
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat-square" alt="GNU Bash Badge">
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square" alt="CSS3 Badge">
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square" alt="HTML5 Badge">
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square" alt="Python Badge">
-<img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=flat-square" alt="Sass Badge">
+
+
 
 
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=flat-square" alt="Spring Boot Badge">
-<img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square" alt="Node.js Badge">
-   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React Badge">
+   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat-square" alt=".NET Badge">
     <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff&style=flat-square">
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat-square" alt="Bootstrap Badge">
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square" alt="Tailwind CSS Badge">
@@ -49,14 +50,12 @@
 
  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat-square" alt="MongoDB Badge">
  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square" alt="MySQL Badge">
- <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square" alt="PostgreSQL Badge">
+
 
 </div>
 
 <div align="center">
-   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat-square" alt="Postman Badge">
-   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square" alt="Docker Badge">
-   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat-square" alt="Kubernetes Badge">
+  
 <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=flat-square" alt="Apache Kafka Badge">
 <img src="https://img.shields.io/badge/RabbitMQ-F60?logo=rabbitmq&logoColor=fff&style=flat-square" alt="RabbitMQ Badge">
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square" alt="Git Badge">
